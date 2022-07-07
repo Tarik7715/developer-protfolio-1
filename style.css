@@ -1,0 +1,189 @@
+body {
+    font-family: 'Heebo', sans-serif;
+    font-family: 'Merriweather Sans', sans-serif;
+    margin: 0;
+}
+
+.text-align {
+    text-align: center;
+    color: white;
+    margin-top: 0px;
+}
+
+.text-align1 {
+    text-align: center;
+    color: black;
+    margin-top: 10px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+.back-image-top {
+    background-image: url(images/donation9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1300px;
+    height: 670px;
+    left: 0px;
+    top: 0px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(231, 87, 77), rgb(226, 45, 13));
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+.Donate-today {
+    text-align: center;
+    color: black;
+}
+
+.flexble-container {
+    display: flex;
+    margin-left: 25%;
+    margin-right: 10%;
+}
+
+.half-width {
+    width: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px (rgb(224, 18, 18));
+}
+
+#border {
+    border: 3px solid;
+    border-color: rgb(211, 30, 54);
+    border-image-slice: 1;
+}
+
+.color-box {
+    color: rgb(211, 30, 54);
+}
+
+.input-text {
+    position: absolute;
+    margin-left: 250px;
+    margin-bottom: 150px;
+}
+
+.input {
+    float: left;
+    width: 30%;
+    margin: 40px 3%;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+
+}
+
+.mar-bottom {
+    margin-top: 150px;
+    text-align: center;
+}
+
+.flexble-container {
+    display: flex;
+    margin-bottom: 150px;
+    margin-top: 50px;
+}
+
+.blog {
+
+    padding: 20px;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: rgb(215, 241, 241);
+
+}
+
+.blog-2 {
+    padding: 20px;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: rgb(247, 223, 223);
+}
+
+.blog-3 {
+    padding: 20px;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: rgb(245, 242, 204);
+}
+
+.flex-container {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.flex-half {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.flex-half img {
+    width: 90%;
+    padding-top: 8%;
+}
+
+.blog-4 {
+    padding: 20px;
+    border-radius: 5px;
+    margin-left: 250px;
+    margin-right: 10px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: rgb(233, 231, 204);
+    width: 809px;
+    height: 200px;
+    left: 316px;
+    top: 3442px;
+}
+
+.email {
+    position: absolute;
+    width: 275px;
+    height: 48px;
+    left: 505px;
+    top: 2718px;
+    background: #ac5454;
+    border-radius: 5px 0px 0px 5px;
+}
+
+.footer {
+    text-align: center;
+    color: coral;
+    background-color: black;
+    margin-bottom: 0px;
+}
